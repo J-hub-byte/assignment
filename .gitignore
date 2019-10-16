@@ -1,0 +1,6 @@
+/.idea/
+/cache/
+/.gitignore*
+/*.iml
+/logs/
+/target/
